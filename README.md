@@ -4,6 +4,8 @@ A **real-time terminal-based aircraft radar** displaying nearby flights and weat
 
 
 <img width="911" height="286" alt="image" src="https://github.com/user-attachments/assets/8ca8a87d-46ae-495a-9f9c-4920451ee129" />
+<img width="911" height="273" alt="image" src="https://github.com/user-attachments/assets/f7adf75a-4d29-4d45-80f3-f95697711c6b" />
+
 ---
 
 ## Features
