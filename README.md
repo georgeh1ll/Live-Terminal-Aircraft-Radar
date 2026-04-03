@@ -3,8 +3,9 @@
 A **real-time terminal-based aircraft radar** displaying nearby flights and weather for **any location**. Track flights using latitude and longitude with a configurable radar range, all in your terminal.
 
 
-<img width="911" height="286" alt="image" src="https://github.com/user-attachments/assets/8ca8a87d-46ae-495a-9f9c-4920451ee129" />
 <img width="911" height="273" alt="image" src="https://github.com/user-attachments/assets/f7adf75a-4d29-4d45-80f3-f95697711c6b" />
+
+<img width="896" height="276" alt="image" src="https://github.com/user-attachments/assets/4e0bad70-2e3b-4c1c-a04e-fb1019dd42f5" />
 
 ---
 
